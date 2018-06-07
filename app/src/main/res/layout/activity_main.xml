@@ -12,7 +12,7 @@
 
 
     <TextView
-        android:text="Happy Birthday Joy!"
+        android:text="Happy Birthday Mum!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="36sp"
